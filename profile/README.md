@@ -10,5 +10,4 @@
 ```
 
 ⚡ HackerX ⚡
-Where Curiosity Meets Creation
 </div>
