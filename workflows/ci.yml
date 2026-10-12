@@ -15,4 +15,4 @@ jobs:
           test -f LICENSE
           test -f NOTICE
           test -f ARCHITECTURE.md
-          test -f README.md || test -f readme.md
+          test -f README.md || test -f readme.md || test -f profile/README.md
