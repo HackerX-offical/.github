@@ -106,7 +106,7 @@ The organization is open source by design. Code should be readable, reproducible
 | Scripting & automation | Python |
 | Web tooling | JavaScript |
 | Focus areas | CLI tools, security research, web scraping, OSINT |
-| License | MIT (most repositories) |
+| License | [HackerX License](https://github.com/HackerX-offical/.github/blob/main/LICENSE) (MIT-equivalent use rights + NOTICE attribution) |
 
 ---
 
