@@ -21,8 +21,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ---
 
 <kbd>ABOUT</kbd>
@@ -81,6 +79,26 @@ Web scrapers, data extraction pipelines, and automation utilities — from CAPTC
 </td>
 </tr>
 </table>
+
+---
+
+<kbd>HX CLI SUITE</kbd>
+
+## Security CLI categories
+
+Terminal-only `hx-*` tools for **authorized** engagements. Scope first, then recon, probe, analyze, and merge.
+
+| Category | Repositories | Role |
+| --- | --- | --- |
+| **Scope & policy** | [hx-scope-enforcer-cli](https://github.com/HackerX-offical/hx-scope-enforcer-cli) | Fail-closed engagement scope before any probe |
+| **DNS & attack surface** | [hx-dns-recon-cli](https://github.com/HackerX-offical/hx-dns-recon-cli), [hx-alive-cli](https://github.com/HackerX-offical/hx-alive-cli) | DNS/CT recon and mass HTTPS liveness |
+| **HTTP & TLS** | [hx-http-security-cli](https://github.com/HackerX-offical/hx-http-security-cli), [hx-tls-policy-cli](https://github.com/HackerX-offical/hx-tls-policy-cli) | Headers, redirects, TLS policy and chain checks |
+| **Auth & access** | [hx-jwt-audit-cli](https://github.com/HackerX-offical/hx-jwt-audit-cli), [hx-cors-probe-cli](https://github.com/HackerX-offical/hx-cors-probe-cli) | JWT analysis and CORS misconfiguration matrices |
+| **Secrets & drift** | [hx-secrets-cli](https://github.com/HackerX-offical/hx-secrets-cli), [hx-api-diff-cli](https://github.com/HackerX-offical/hx-api-diff-cli) | Credential discovery and API surface drift |
+| **Correlation & export** | [hx-parse-cli](https://github.com/HackerX-offical/hx-parse-cli), [hx-graph-cli](https://github.com/HackerX-offical/hx-graph-cli), [hx-callback-cli](https://github.com/HackerX-offical/hx-callback-cli), [hx-burp-export-cli](https://github.com/HackerX-offical/hx-burp-export-cli) | Merge tool JSON, OOB callbacks, Burp exports |
+| **Email intelligence** | [hx-email-recon-cli](https://github.com/HackerX-offical/hx-email-recon-cli) | SPF, DMARC, and DKIM recon |
+
+All `hx-*` repositories ship under the [HackerX License](https://github.com/HackerX-offical/.github/blob/main/LICENSE) with [NOTICE](https://github.com/HackerX-offical/.github/blob/main/NOTICE) attribution.
 
 ---
 
