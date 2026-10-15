@@ -17,7 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-555?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-555?style=flat-square)
 ![Security](https://img.shields.io/badge/Security%20Research-555?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-HackerX--official-555?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-HackerX--official-555?style=flat-square)](https://github.com/HackerX-official)
 
 </div>
 
@@ -154,6 +154,6 @@ HackerX is his primary open source presence — a record of what he has built an
 
 <div align="center">
 
-`HackerX — Open Source Security Organization` &nbsp;|&nbsp; `Founded by Suryanshu Nabheet` &nbsp;|&nbsp; `All tools are for ethical use only`
+`HackerX — Open Source Security Organization` &nbsp;|&nbsp; [`github.com/HackerX-official`](https://github.com/HackerX-official) &nbsp;|&nbsp; `All tools are for ethical use only`
 
 </div>
