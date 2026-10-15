@@ -17,7 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-555?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-555?style=flat-square)
 ![Security](https://img.shields.io/badge/Security%20Research-555?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-HackerX--offical-555?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-HackerX--official-555?style=flat-square)
 
 </div>
 
@@ -90,15 +90,15 @@ Terminal-only `hx-*` tools for **authorized** engagements. Scope first, then rec
 
 | Category | Repositories | Role |
 | --- | --- | --- |
-| **Scope & policy** | [hx-scope-enforcer-cli](https://github.com/HackerX-offical/hx-scope-enforcer-cli) | Fail-closed engagement scope before any probe |
-| **DNS & attack surface** | [hx-dns-recon-cli](https://github.com/HackerX-offical/hx-dns-recon-cli), [hx-alive-cli](https://github.com/HackerX-offical/hx-alive-cli) | DNS/CT recon and mass HTTPS liveness |
-| **HTTP & TLS** | [hx-http-security-cli](https://github.com/HackerX-offical/hx-http-security-cli), [hx-tls-policy-cli](https://github.com/HackerX-offical/hx-tls-policy-cli) | Headers, redirects, TLS policy and chain checks |
-| **Auth & access** | [hx-jwt-audit-cli](https://github.com/HackerX-offical/hx-jwt-audit-cli), [hx-cors-probe-cli](https://github.com/HackerX-offical/hx-cors-probe-cli) | JWT analysis and CORS misconfiguration matrices |
-| **Secrets & drift** | [hx-secrets-cli](https://github.com/HackerX-offical/hx-secrets-cli), [hx-api-diff-cli](https://github.com/HackerX-offical/hx-api-diff-cli) | Credential discovery and API surface drift |
-| **Correlation & export** | [hx-parse-cli](https://github.com/HackerX-offical/hx-parse-cli), [hx-graph-cli](https://github.com/HackerX-offical/hx-graph-cli), [hx-callback-cli](https://github.com/HackerX-offical/hx-callback-cli), [hx-burp-export-cli](https://github.com/HackerX-offical/hx-burp-export-cli) | Merge tool JSON, OOB callbacks, Burp exports |
-| **Email intelligence** | [hx-email-recon-cli](https://github.com/HackerX-offical/hx-email-recon-cli) | SPF, DMARC, and DKIM recon |
+| **Scope & policy** | [hx-scope-enforcer-cli](https://github.com/HackerX-official/hx-scope-enforcer-cli) | Fail-closed engagement scope before any probe |
+| **DNS & attack surface** | [hx-dns-recon-cli](https://github.com/HackerX-official/hx-dns-recon-cli), [hx-alive-cli](https://github.com/HackerX-official/hx-alive-cli) | DNS/CT recon and mass HTTPS liveness |
+| **HTTP & TLS** | [hx-http-security-cli](https://github.com/HackerX-official/hx-http-security-cli), [hx-tls-policy-cli](https://github.com/HackerX-official/hx-tls-policy-cli) | Headers, redirects, TLS policy and chain checks |
+| **Auth & access** | [hx-jwt-audit-cli](https://github.com/HackerX-official/hx-jwt-audit-cli), [hx-cors-probe-cli](https://github.com/HackerX-official/hx-cors-probe-cli) | JWT analysis and CORS misconfiguration matrices |
+| **Secrets & drift** | [hx-secrets-cli](https://github.com/HackerX-official/hx-secrets-cli), [hx-api-diff-cli](https://github.com/HackerX-official/hx-api-diff-cli) | Credential discovery and API surface drift |
+| **Correlation & export** | [hx-parse-cli](https://github.com/HackerX-official/hx-parse-cli), [hx-graph-cli](https://github.com/HackerX-official/hx-graph-cli), [hx-callback-cli](https://github.com/HackerX-official/hx-callback-cli), [hx-burp-export-cli](https://github.com/HackerX-official/hx-burp-export-cli) | Merge tool JSON, OOB callbacks, Burp exports |
+| **Email intelligence** | [hx-email-recon-cli](https://github.com/HackerX-official/hx-email-recon-cli) | SPF, DMARC, and DKIM recon |
 
-All `hx-*` repositories ship under the [HackerX License](https://github.com/HackerX-offical/.github/blob/main/LICENSE) with [NOTICE](https://github.com/HackerX-offical/.github/blob/main/NOTICE) attribution.
+All `hx-*` repositories ship under the [HackerX License](https://github.com/HackerX-official/.github/blob/main/LICENSE) with [NOTICE](https://github.com/HackerX-official/.github/blob/main/NOTICE) attribution.
 
 ---
 
@@ -124,7 +124,7 @@ The organization is open source by design. Code should be readable, reproducible
 | Scripting & automation | Python |
 | Web tooling | JavaScript |
 | Focus areas | CLI tools, security research, web scraping, OSINT |
-| License | [HackerX License](https://github.com/HackerX-offical/.github/blob/main/LICENSE) (MIT-equivalent use rights + NOTICE attribution) |
+| License | [HackerX License](https://github.com/HackerX-official/.github/blob/main/LICENSE) (MIT-equivalent use rights + NOTICE attribution) |
 
 ---
 

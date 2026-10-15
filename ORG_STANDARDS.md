@@ -1,11 +1,11 @@
 # HackerX organization standards
 
-All public repositories in **HackerX-offical** should include:
+All public repositories in **HackerX-official** should include:
 
 | Artifact | Purpose |
 | --- | --- |
-| [LICENSE](https://github.com/HackerX-offical/.github/blob/main/LICENSE) | HackerX License v1.0 |
-| [NOTICE](https://github.com/HackerX-offical/.github/blob/main/NOTICE) | Attribution for distributions |
+| [LICENSE](https://github.com/HackerX-official/.github/blob/main/LICENSE) | HackerX License v1.0 |
+| [NOTICE](https://github.com/HackerX-official/.github/blob/main/NOTICE) | Attribution for distributions |
 | `SECURITY.md` | Vulnerability reporting |
 | `README.md` | Install, usage, ethics, license section |
 | `ARCHITECTURE.md` | Required for `hx-*` security CLIs |

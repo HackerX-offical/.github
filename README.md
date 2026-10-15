@@ -1,6 +1,6 @@
-# HackerX-offical `.github`
+# HackerX-official `.github`
 
-Organization profile and shared standards for [HackerX-offical](https://github.com/HackerX-offical).
+Organization profile and shared standards for [HackerX-official](https://github.com/HackerX-official).
 
 ## Why this exists
 

@@ -1,4 +1,4 @@
-# HackerX-offical `.github` repository
+# HackerX-official `.github` repository
 
 Organization defaults hosted here:
 
